@@ -9,7 +9,7 @@ import { ReportFilterProvider } from './context/ReportFilterContext';
 import { AuthProvider, useAuth } from './context/SimpleAuthContext';
 import SalesGrid from './components/SalesGrid';
 import Report from './components/Report';
-import Customer from './components/Customer';
+import Customer from './components/customer';
 import Product from './components/Product';
 import SimpleLogin from './components/SimpleLogin';
 
