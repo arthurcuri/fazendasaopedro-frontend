@@ -1,0 +1,44 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Env
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+.env.test
+.env.example
+
+# Misc
+coverage/
+
+# Static assets
+src/assets/*.bak
+src/assets/*.swp
+
+# Test output
+/test-results/
+
+# Tailwind
+.tailwind-cache/
+
+# Ignore sensitive config
+vite.config.ts
+
+# Ignore backup files
+*.bak
+*.swp
