@@ -1,1 +1,0 @@
-# fazendasaopedro-frontend
